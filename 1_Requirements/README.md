@@ -2,40 +2,28 @@
 -This mini project on Calendar in C programming language is a console application without graphics.
 
 # Features :
-. Add a New Contact
 . User will able to get travel information when user select an particular city
-. Search for contact
-. Edit a contact
-. Delete a contact
+. Search for hotels and events
 
 # SWOT ANALYSIS
  ## STRENGTH
--we can monitor the days,weeks,month,year. -By using this application we know the which day we are in.
 
  ## WEEKNESS
--we can't mark the events in my calender.
 
  ## OPPORTUNITIES
--Online calender. -It can be help to track the weeks,months,years.
 
  ## THREATS
--some time it will crash
 
 # 4 W’s and 1 H
  ## WHO
--Any one can access the calender
 
  ## what
--It is used to track the weeks,months ,years.
 
  ## when
--whenever we want we can view the calander
 
  ## why
--It will helpfull in our daily life
 
  ## How
--This project is implemented by using loops, function call and other functionalities of C.
 
  ## TOOLS
 -Vs Code with Some Extensions like C/C++.
