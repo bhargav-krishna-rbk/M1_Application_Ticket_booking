@@ -1,12 +1,12 @@
 ## INTRODUCTION
--This mini project on Calendar in C programming language is a console application without graphics.
+-This mini project on Travel_Guide is developed using C programming language 
 
 ### Features :
 . User will able to get travel information when user select an particular city
 . Search for hotels and events
 
 ## RESEARCH
-  this project aims to simplify the task of mainiaining records of the Employee Presence Monitoring System. To develop an well-designed database to store employee information.      The objective of this project is to provide a comprehensive approach towards the management of employee information.
+  This project aims to simplify the task to using places nearby and provide informations too.The objective of this project is to provide information to user so the user can plan his journey as user wish.
 ## SWOT ANALYSIS
  #### STRENGTH
 
