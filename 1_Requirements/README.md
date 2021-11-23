@@ -17,7 +17,7 @@
  #### THREATS
 
 ## 4 W’s and 1 H
- #### WHO 
+ #### who
  Traveller will use this Application.
  #### what
  Provides Information about local destinations and hotel.
