@@ -18,9 +18,9 @@
 
 ## 4 W’s and 1 H
  #### WHO :
-      * Traveller will use this Application.
+      Markup : * Traveller will use this Application.
  #### what
-      * Provides Information about local destinations and hotel.
+      Markup : * Provides Information about local destinations and hotel.
  #### when
       * When a trsveller goes to an City want to explore needed information about hotel's and tourist places in the city. 
  #### why
