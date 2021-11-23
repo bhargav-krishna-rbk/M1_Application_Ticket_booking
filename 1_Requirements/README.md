@@ -1,24 +1,24 @@
-## INTRODUCTION
+# INTRODUCTION
 -This mini project on Calendar in C programming language is a console application without graphics.
 
-## Features :
+# Features :
 . Add a New Contact
 . List all contacts
 . Search for contact
 . Edit a contact
 . Delete a contact
 
-## SWOT ANALYSIS
- # STRENGTH
+# SWOT ANALYSIS
+ ## STRENGTH
 -we can monitor the days,weeks,month,year. -By using this application we know the which day we are in.
 
-# WEEKNESS
+ ## WEEKNESS
 -we can't mark the events in my calender.
 
-# OPPORTUNITIES
+ ## OPPORTUNITIES
 -Online calender. -It can be help to track the weeks,months,years.
 
-# THREATS
+ ## THREATS
 -some time it will crash
 
 ## 4 W’s and 1 H
