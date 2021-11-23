@@ -17,16 +17,16 @@
  #### THREATS
 
 ## 4 W’s and 1 H
- #### WHO
-
+ #### WHO :
+      * Traveller will use this Application.
  #### what
-
+      * Provides Information about local destinations and hotel.
  #### when
-
+      * When a trsveller goes to an City want to explore needed information about hotel's and tourist places in the city. 
  #### why
-
+      * To make a plan to explore in sufficient time.
  #### How
-
+      * User maunually enters the city name and searches related information about city and the history of the city etc.. will be provided to the user.
  ## TOOLS
 -Vs Code with Some Extensions like C/C++.
 
