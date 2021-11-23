@@ -3,7 +3,7 @@
 
 # Features :
 . Add a New Contact
-. List all contacts
+. User will able to get travel information when user select an particular city
 . Search for contact
 . Edit a contact
 . Delete a contact
