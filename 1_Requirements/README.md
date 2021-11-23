@@ -8,9 +8,9 @@
 ## RESEARCH
   this project aims to simplify the task of mainiaining records of the Employee Presence Monitoring System. To develop an well-designed database to store employee information.      The objective of this project is to provide a comprehensive approach towards the management of employee information.
 # SWOT ANALYSIS
- ## STRENGTH
+ #### STRENGTH
 
- ## WEEKNESS
+ #### WEEKNESS
 
  ## OPPORTUNITIES
 
