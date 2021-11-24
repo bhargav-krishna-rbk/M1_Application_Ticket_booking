@@ -3,14 +3,16 @@
 
 ### Features :
 . Search Hotels
-. Hotel description
+. Hotel details and description
 . Hotel Bookings
 . cancellation of already booked hotel
 
 ## RESEARCH
+. Everyone will use hotel when ever we travel.Our system will help to reserve the hotel room online.It will also reduce the time to search for hotel by going through the city
   
 ## SWOT ANALYSIS
  #### STRENGTH
+     . Reduce time to search for hotel manually.It will automate the booking process and bookings will be coformwd by the hotel's.
 
  #### WEEKNESS
 
