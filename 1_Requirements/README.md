@@ -1,12 +1,12 @@
 ## INTRODUCTION
--This mini project on Travel_Guide is developed using C programming language 
+-
 
 ### Features :
-. User will able to get travel information when user select an particular city
+. 
 . Search for hotels and events
 
 ## RESEARCH
-  This project aims to simplify the task to using places nearby and provide informations too.The objective of this project is to provide information to user so the user can plan his journey as user wish.
+  
 ## SWOT ANALYSIS
  #### STRENGTH
 
@@ -18,15 +18,14 @@
 
 ## 4 W’s and 1 H
  #### who
- Traveller will use this Application.
+ 
  #### what
- Provides Information about local destinations and hotel.
+
  #### when
- When a trsveller goes to an City want to explore needed information about hotel's and tourist places in the city. 
+ 
  #### why
- To make a plan to explore in sufficient time.
+ 
  #### How
- User maunually enters the city name and searches related information about city and the history of the city etc.. will be provided to the user.
  
  ## TOOLS
 -Vs Code with Some Extensions like C/C++.
