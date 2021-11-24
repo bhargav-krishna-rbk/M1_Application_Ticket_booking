@@ -8,7 +8,7 @@
 - cancellation of already booked hotel
 
 ## RESEARCH
-. Everyone will use hotel when ever we travel.Our system will help to reserve the hotel room online.It will also reduce the time to search for hotel by going through the city
+ Everyone will use hotel when ever we travel.Our system will help to reserve the hotel room online.It will also reduce the time to search for hotel by going through the city
   
 ## SWOT ANALYSIS
  
@@ -23,14 +23,16 @@
      
 ## 4 W’s and 1 H
  #### who
- 
+ - Any user who want to pre book hotel and want to save time
  #### what
-
+ - Hotel booking system at particular city
  #### when
- 
+ - if user want to book advancely before 24hours or 48 hours. 
  #### why
- 
+ - Save time
+ - easy refund policies
  #### How
+ - system will ask to enter the city name enter the city and all the hotels will be listed below select one hotel according to prices and confirm booking
  
  ## TOOLS
 -Vs Code with Some Extensions like C/C++.
