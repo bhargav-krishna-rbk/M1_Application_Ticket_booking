@@ -2,10 +2,10 @@
 - Project aim is to provide hotel ticket booking system.
 
 ### Features :
-. Search Hotels
-. Hotel details and description
-. Hotel Bookings
-. cancellation of already booked hotel
+- Search Hotels
+- Hotel details and description
+- Hotel Bookings
+- cancellation of already booked hotel
 
 ## RESEARCH
 . Everyone will use hotel when ever we travel.Our system will help to reserve the hotel room online.It will also reduce the time to search for hotel by going through the city
