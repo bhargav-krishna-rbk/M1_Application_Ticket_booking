@@ -13,13 +13,13 @@
 ## SWOT ANALYSIS
  
  #### STRENGTH
-    - Reduce time to search for hotel manually.It will automate the booking process and bookings will be confirmed by the hotel's automatically
+ - Reduce time to search for hotel manually.It will automate the booking process and bookings will be confirmed by the hotel's automatically
  #### WEEKNESS
-    - some hotles will reject to pay full amount back if user cancels the room after pre-reservation completed
+ - some hotles will reject to pay full amount back if user cancels the room after pre-reservation completed
  #### OPPORTUNITIES
-    - can save time by booking in online.No need to worry  about the refung after cancellation
+ - can save time by booking in online.No need to worry  about the refung after cancellation
  #### THREATS
-    - personal details like mobile number,e mail or any kind debit or credit card details can be stolen if hacked 
+ - personal details like mobile number,e mail or any kind debit or credit card details can be stolen if hacked 
      
 ## 4 W’s and 1 H
  #### who
