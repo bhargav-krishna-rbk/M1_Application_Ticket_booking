@@ -1,9 +1,11 @@
 ## INTRODUCTION
--
+- Project aim is to provide hotel ticket booking system.
 
 ### Features :
-. 
-. Search for hotels and events
+. Search Hotels
+. Hotel description
+. Hotel Bookings
+. cancellation of already booked hotel
 
 ## RESEARCH
   
