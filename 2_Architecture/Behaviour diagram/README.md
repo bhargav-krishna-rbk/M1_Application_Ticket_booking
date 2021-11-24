@@ -1,4 +1,4 @@
 
 ## Activity Diagram
 
-![image](https://user-images.githubusercontent.com/67577934/143219431-3083a2ac-c784-4582-b1a8-c38ad6f010ef.png)
+![activity diagrsm](https://user-images.githubusercontent.com/67577934/143219742-5bca7d74-d9db-43ae-9fa5-88b0dd27bed7.png)
